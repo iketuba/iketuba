@@ -39,9 +39,8 @@
 </p>
 
 ## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iketuba&theme=radical&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=iketuba&theme=radical&column=4" />
 </p>
 
 ## ⚡ Recent Activities
