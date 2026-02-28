@@ -13,16 +13,40 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iketuba&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iketuba&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iketuba&layout=compact&theme=radical" />
 </p>
 
----
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iketuba&theme=radical" />
+</p>
+
+## 📈 Detailed Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iketuba&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iketuba&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iketuba&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iketuba&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iketuba&theme=radical&utcOffset=9" />
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iketuba&theme=radical&column=6&margin-w=10" />
+</p>
 
 ## ⚡ Recent Activities
 - ✅ Merged a PR in `lingdojo/kana-dojo` ([#6470](https://github.com/lingdojo/kana-dojo/issues/6470))
 - 📚 Reading about Microservices & Platform Engineering.
-
----
 
 ## 📫 Connect with me
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/programming55)
